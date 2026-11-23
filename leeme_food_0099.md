@@ -9,3 +9,14 @@
 
 ### Tienpo de coccion mostrar  10 registros con head
 ![alt text](image-2.png)
+
+### Garfica de comida de India 
+![alt text](image-3.png)
+
+### grafica de 2 columnas 
+![alt text](image-4.png)
+
+### graficas apiladas 
+![alt text](image-5.png)
+
+### 
